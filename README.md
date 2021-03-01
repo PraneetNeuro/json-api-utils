@@ -1,3 +1,8 @@
+# Install Japi?
+```shell
+npm i japi-utils
+```
+
 # Why Japi?
 1. You can see the JSON response structure
 2. You can validate the JSON response with the one that you expect

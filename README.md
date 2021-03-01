@@ -1,4 +1,4 @@
-# Install Japi?
+# Install Japi
 ```shell
 npm i japi-utils
 ```

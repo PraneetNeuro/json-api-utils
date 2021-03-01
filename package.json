@@ -1,0 +1,15 @@
+{
+  "name": "japi-utils",
+  "version": "1.0.1",
+  "description": "Package for checking the JSON response structure of an API and validating the API response ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praneet S",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  }
+}

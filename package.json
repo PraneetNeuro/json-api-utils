@@ -1,6 +1,6 @@
 {
   "name": "japi-utils",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Package for checking the JSON response structure of an API and validating the API response ",
   "main": "index.js",
   "scripts": {

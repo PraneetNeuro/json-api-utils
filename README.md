@@ -1,3 +1,5 @@
+[![install size](https://packagephobia.com/badge?p=japi-utils)](https://packagephobia.com/result?p=japi-utils)
+
 # Why Japi?
 1. You can see the JSON response structure
 2. You can validate the JSON response with the one that you expect
